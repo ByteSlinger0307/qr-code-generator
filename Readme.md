@@ -75,5 +75,5 @@ Feel free to fork the repository and submit pull requests with improvements or b
 
 - **Name**: Krish Dubey
 - **Email**: dubeykrish0208@gmail.con
-- **GitHub**: [(https://github.com/)](https://github.com/ByteSlinger0307)
+- **GitHub**: [(https://github.com/ByteSlinger0307)]
 
